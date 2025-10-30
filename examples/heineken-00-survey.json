@@ -1,0 +1,659 @@
+[
+  {
+    "id": "heineken_00_survey",
+    "fields": {
+      "0": {
+        "id": "0",
+        "type": "radio",
+        "label": "P0 ¿Cuál es tu edad?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "18 a 24 años"},
+          "2": {"label": "25 a 34 años"},
+          "3": {"label": "35 a 44 años"},
+          "4": {"label": "45 a 54 años"},
+          "5": {"label": "55 a 64 años"}
+        }
+      },
+      "1": {
+        "id": "1",
+        "type": "radio",
+        "label": "P1 ¿Con cuál de las siguientes opciones te identificas?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Hombre"},
+          "2": {"label": "Mujer"},
+          "3": {"label": "Otro / Prefiero no decir"}
+        }
+      },
+      "2": {
+        "id": "2",
+        "type": "radio",
+        "label": "P2 ¿En qué zona del país vives actualmente?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Noroeste (Baja California, Sonora, Chihuahua, etc.)"},
+          "2": {"label": "Noreste (Nuevo León, Tamaulipas, Coahuila, etc.)"},
+          "3": {"label": "Occidente/Centro (Jalisco, Guanajuato, Querétaro, etc.)"},
+          "4": {"label": "Valle de México (Ciudad de México y Área Metropolitana)"},
+          "5": {"label": "Sur/Sureste (Yucatán, Quintana Roo, Oaxaca, Chiapas, etc.)"}
+        }
+      },
+      "3": {
+        "id": "3",
+        "type": "radio",
+        "label": "P3 Pensando en el área donde vives, ¿cómo describirías el nivel socioeconómico de tu hogar?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Alto"},
+          "2": {"label": "Medio alto"},
+          "3": {"label": "Medio"},
+          "4": {"label": "Medio bajo"},
+          "5": {"label": "Bajo"}
+        }
+      },
+      "4": {
+        "id": "4",
+        "type": "radio",
+        "label": "P4 En los últimos 3 meses, ¿has tomado cerveza con alcohol?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Sí"},
+          "2": {"label": "No"}
+        }
+      },
+      "5": {
+        "id": "5",
+        "type": "radio",
+        "label": "P5 ¿Alguna vez has tomado cerveza 0.0 o una bebida sin alcohol tipo cerveza?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Sí, en los últimos 3 meses"},
+          "2": {"label": "Sí, en los últimos 6 meses (pero no en los últimos 3)"},
+          "3": {"label": "Sí, hace más tiempo"},
+          "4": {"label": "Nunca"}
+        }
+      },
+      "6": {
+        "id": "6",
+        "type": "radio",
+        "label": "P6 Si nunca la has probado, ¿qué tan probable sería que la pidieras en alguna ocasión próxima?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Muy probable"},
+          "2": {"label": "Algo probable"},
+          "3": {"label": "Puede ser"},
+          "4": {"label": "Poco probable"},
+          "5": {"label": "Nada probable"}
+        }
+      },
+      "7": {
+        "id": "7",
+        "type": "checkbox",
+        "label": "P7 En los últimos 3 meses, ¿en qué lugares consumiste cerveza con alcohol?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "En bares"},
+          "2": {"label": "En restaurantes"},
+          "3": {"label": "En casa propia"},
+          "4": {"label": "En casa de familiares"},
+          "5": {"label": "En casa de amigos"},
+          "6": {"label": "En fiestas privadas"},
+          "7": {"label": "En conciertos o festivales"},
+          "8": {"label": "En partidos o eventos deportivos"},
+          "9": {"label": "En la playa o lugares al aire libre"},
+          "10": {"label": "Otro lugar"}
+        }
+      },
+      "8": {
+        "id": "8",
+        "type": "radio",
+        "label": "P8 ¿Con qué frecuencia conduces un automóvil tú mismo?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Varias veces a la semana"},
+          "2": {"label": "Una vez a la semana"},
+          "3": {"label": "Una o dos veces al mes"},
+          "4": {"label": "Menos de una vez al mes"},
+          "5": {"label": "Nunca"}
+        }
+      },
+      "9": {
+        "id": "9",
+        "type": "radio",
+        "label": "P9 En comparación con hace 12 meses, ¿cómo ha cambiado tu consumo de cerveza con alcohol?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Tomo mucho más que antes"},
+          "2": {"label": "Tomo algo más que antes"},
+          "3": {"label": "Tomo igual que antes"},
+          "4": {"label": "Tomo algo menos que antes"},
+          "5": {"label": "Tomo mucho menos que antes"},
+          "6": {"label": "Dejé de tomar cerveza con alcohol"}
+        }
+      },
+      "10": {
+        "id": "10",
+        "type": "radio",
+        "label": "P10 Pensando en tu manera actual de beber cerveza, ¿cuál de las siguientes frases te describe mejor?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "No he reducido mi consumo de alcohol"},
+          "2": {"label": "He reducido la cantidad que tomo (menos unidades o menos días)"},
+          "3": {"label": "Alterno entre cerveza con alcohol y cerveza 0.0"},
+          "4": {"label": "He reemplazado varias ocasiones de cerveza con alcohol por cerveza 0.0"},
+          "5": {"label": "Casi no tomo alcohol y principalmente consumo cerveza 0.0"}
+        }
+      },
+      "11": {
+        "id": "11",
+        "type": "radio",
+        "label": "P11 ¿Cuál es la principal razón por la que moderas tu consumo de alcohol?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Para rendir mejor al día siguiente (trabajo o estudio)"},
+          "2": {"label": "Porque voy a manejar o necesito estar sobrio"},
+          "3": {"label": "Por salud o bienestar general"},
+          "4": {"label": "Para controlar las calorías"},
+          "5": {"label": "Por compromisos familiares o sociales"},
+          "6": {"label": "Por motivos religiosos"},
+          "7": {"label": "Por motivos médicos (tratamientos, medicamentos)"},
+          "8": {"label": "Para sentirme más en control en situaciones sociales"},
+          "9": {"label": "Para evitar la resaca o malestar posterior"},
+          "10": {"label": "Por motivos económicos"},
+          "11": {"label": "Otra razón"}
+        }
+      },
+      "12": {
+        "id": "12",
+        "type": "radio",
+        "label": "P12 En las últimas 4 semanas, de todas las ocasiones en que bebiste cerveza, ¿qué porcentaje aproximadamente fueron con cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "0% ninguna ocasión"},
+          "2": {"label": "1% a 10%"},
+          "3": {"label": "11% a 25%"},
+          "4": {"label": "26% a 50%"},
+          "5": {"label": "51% a 75%"},
+          "6": {"label": "76% a 99%"},
+          "7": {"label": "100% todas las ocasiones"}
+        }
+      },
+      "13": {
+        "id": "13",
+        "type": "checkbox",
+        "label": "P13 ¿En cuáles de las siguientes ocasiones has tomado o considerarías tomar cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Durante una comida en el trabajo o con compañeros"},
+          "2": {"label": "En una comida familiar"},
+          "3": {"label": "Cuando voy a manejar después"},
+          "4": {"label": "En días laborales por la tarde o noche"},
+          "5": {"label": "En reuniones largas o eventos sociales prolongados"},
+          "6": {"label": "Después o entre actividades físicas o al aire libre"},
+          "7": {"label": "En un bar con amigos"},
+          "8": {"label": "En reuniones de trabajo o juntas"},
+          "9": {"label": "En casa mirando televisión o un partido"},
+          "10": {"label": "En fiestas privadas"},
+          "11": {"label": "En la playa o lugares vacacionales"},
+          "12": {"label": "Otra ocasión"},
+          "13": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "14": {
+        "id": "14",
+        "type": "radio",
+        "label": "P14 De todas las ocasiones anteriores, ¿cuál es la principal en la que has tomado o considerarías tomar cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Durante una comida en el trabajo o con compañeros"},
+          "2": {"label": "En una comida familiar"},
+          "3": {"label": "Cuando voy a manejar después"},
+          "4": {"label": "En días laborales por la tarde o noche"},
+          "5": {"label": "En reuniones largas o eventos sociales prolongados"},
+          "6": {"label": "Después o entre actividades físicas o al aire libre"},
+          "7": {"label": "En un bar con amigos"},
+          "8": {"label": "En reuniones de trabajo o juntas"},
+          "9": {"label": "En casa mirando televisión o un partido"},
+          "10": {"label": "En fiestas privadas"},
+          "11": {"label": "En la playa o lugares vacacionales"},
+          "12": {"label": "Otra ocasión"},
+          "13": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "15": {
+        "id": "15",
+        "type": "radio",
+        "label": "P15 Pensando en esa ocasión principal, ¿en qué lugar has tomado o considerarías tomar cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "En un bar"},
+          "2": {"label": "En un restaurante"},
+          "3": {"label": "En casa propia"},
+          "4": {"label": "En casa de familiares"},
+          "5": {"label": "En casa de amigos"},
+          "6": {"label": "En un evento social (boda, cumpleaños, fiesta grande)"},
+          "7": {"label": "En un evento deportivo o concierto"},
+          "8": {"label": "En la playa o lugares al aire libre"},
+          "9": {"label": "Otro lugar"},
+          "10": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "16": {
+        "id": "16",
+        "type": "radio",
+        "label": "P16 ¿En qué momento del día has tomado o considerarías tomar cerveza 0.0 en esa ocasión principal?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "En la mañana"},
+          "2": {"label": "Al mediodía"},
+          "3": {"label": "Por la tarde"},
+          "4": {"label": "Por la noche"},
+          "5": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "17": {
+        "id": "17",
+        "type": "radio",
+        "label": "P17 ¿Con quién has estado o con quién considerarías estar cuando tomas cerveza 0.0 en esa ocasión principal?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Con amigos"},
+          "2": {"label": "Con compañeros de trabajo"},
+          "3": {"label": "Con familiares"},
+          "4": {"label": "Con pareja"},
+          "5": {"label": "Con otras personas conocidas"},
+          "6": {"label": "Solo"},
+          "7": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "18": {
+        "id": "18",
+        "type": "radio",
+        "label": "P18 Pensando en esa ocasión, ¿cuál es la principal razón práctica por la que eliges o elegirías cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Porque quiero el sabor de la cerveza pero sin alcohol"},
+          "2": {"label": "Para poder manejar después sin problema"},
+          "3": {"label": "Para no sentirme mal o con resaca al día siguiente"},
+          "4": {"label": "Para poder seguir tomando sin pasarme de alcohol"},
+          "5": {"label": "Porque combina bien con la comida"},
+          "6": {"label": "Porque me ayuda a mantenerme activo y con energía"},
+          "7": {"label": "Porque quiero cuidar mi salud o calorías"},
+          "8": {"label": "Otra razón práctica"},
+          "9": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "19": {
+        "id": "19",
+        "type": "radio",
+        "label": "P19 Pensando en esa ocasión, ¿cuál es la principal razón relacionada con cómo te sientes o te sentirías al elegir cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Me hace sentir incluido en la reunión aunque no esté tomando alcohol"},
+          "2": {"label": "Me hace sentir responsable conmigo mismo"},
+          "3": {"label": "Me hace sentir tranquilo de que mañana voy a estar bien"},
+          "4": {"label": "Me hace sentir en control de lo que tomo"},
+          "5": {"label": "Me hace sentir que puedo divertirme igual sin alcohol"},
+          "6": {"label": "Me hace sentir orgulloso de estar tomando una opción más sana"},
+          "7": {"label": "Otra razón de cómo me hace o me haría sentir"},
+          "8": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "20": {
+        "id": "20",
+        "type": "radio",
+        "label": "P20 Pensando en esa ocasión, ¿cuál es la principal razón relacionada con la imagen que das o darías a los demás al elegir cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Da buena imagen en un contexto formal"},
+          "2": {"label": "Muestra que me cuido y me preocupo por mi salud"},
+          "3": {"label": "Muestra que soy responsable (por ejemplo si voy a manejar o estoy con la familia)"},
+          "4": {"label": "Muestra que estoy al día y abierto a nuevas opciones"},
+          "5": {"label": "Refuerza que llevo un estilo de vida equilibrado"},
+          "6": {"label": "Muestra que disfruto de la cerveza de manera consciente"},
+          "7": {"label": "Otra razón sobre la imagen que transmito o transmitiría"},
+          "8": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "21": {
+        "id": "21",
+        "type": "checkbox",
+        "label": "P21 Cuando eliges o elegirías cerveza 0.0, ¿cuáles de estas situaciones hacen que la pidas?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Porque voy a manejar después"},
+          "2": {"label": "Porque tengo que trabajar o estudiar al día siguiente"},
+          "3": {"label": "Porque es día laboral o temprano"},
+          "4": {"label": "Porque la veo disponible fría"},
+          "5": {"label": "Porque aparece en el menú o me la ofrecen"},
+          "6": {"label": "Porque estoy con la familia o en un ambiente formal"},
+          "7": {"label": "Porque quiero cuidar mi salud o calorías"},
+          "8": {"label": "Porque me sabe parecido a la cerveza con alcohol"},
+          "9": {"label": "Porque quiero empezar con algo más ligero en la primera ronda"},
+          "10": {"label": "Porque alguien del grupo la recomienda o me invita"},
+          "11": {"label": "Porque quiero evitar resaca o malestar"},
+          "12": {"label": "Porque el precio me parece adecuado"},
+          "13": {"label": "Otra situación"},
+          "14": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "22": {
+        "id": "22",
+        "type": "radio",
+        "label": "P22 De todas esas situaciones, ¿cuál es la más importante para que elijas o elegirías cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Porque voy a manejar después"},
+          "2": {"label": "Porque tengo que trabajar o estudiar al día siguiente"},
+          "3": {"label": "Porque es día laboral o temprano"},
+          "4": {"label": "Porque la veo disponible fría"},
+          "5": {"label": "Porque aparece en el menú o me la ofrecen"},
+          "6": {"label": "Porque estoy con la familia o en un ambiente formal"},
+          "7": {"label": "Porque quiero cuidar mi salud o calorías"},
+          "8": {"label": "Porque me sabe parecido a la cerveza con alcohol"},
+          "9": {"label": "Porque quiero empezar con algo más ligero en la primera ronda"},
+          "10": {"label": "Porque alguien del grupo la recomienda o me invita"},
+          "11": {"label": "Porque quiero evitar resaca o malestar"},
+          "12": {"label": "Porque el precio me parece adecuado"},
+          "13": {"label": "Otra situación"},
+          "14": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "23": {
+        "id": "23",
+        "type": "radio",
+        "label": "P23 Entre estas dos situaciones, ¿cuál hace más probable que elijas o elegirías cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Voy a manejar después"},
+          "2": {"label": "Quiero cuidar calorías"},
+          "3": {"label": "Es día laboral"},
+          "4": {"label": "La veo fría en vitrina"},
+          "5": {"label": "Estoy con la familia"},
+          "6": {"label": "Alguien del grupo me la recomienda"},
+          "7": {"label": "Quiero evitar resaca"},
+          "8": {"label": "El precio me parece adecuado"},
+          "9": {"label": "Quiero empezar con algo ligero"},
+          "10": {"label": "Me sabe parecido a la cerveza con alcohol"},
+          "11": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "24": {
+        "id": "24",
+        "type": "radio",
+        "label": "P24 Imaginemos que estás en una ocasión en la que eliges o elegirías cerveza 0.0, pero no está disponible. ¿Qué pedirías en su lugar?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Cerveza con alcohol"},
+          "2": {"label": "Refresco"},
+          "3": {"label": "Agua simple"},
+          "4": {"label": "Agua mineral"},
+          "5": {"label": "Agua saborizada"},
+          "6": {"label": "Té helado"},
+          "7": {"label": "Bebida deportiva"},
+          "8": {"label": "Cóctel sin alcohol (mocktail)"},
+          "9": {"label": "Otra bebida"},
+          "10": {"label": "No pediría nada"},
+          "11": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "25": {
+        "id": "25",
+        "type": "radio",
+        "label": "P25 Cuando eliges cerveza con alcohol, ¿en qué situaciones la cambias por una cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Nunca la cambio por 0.0"},
+          "2": {"label": "Cuando voy a manejar"},
+          "3": {"label": "Cuando es día laboral o temprano"},
+          "4": {"label": "En reuniones largas o cuando quiero durar más"},
+          "5": {"label": "Cuando estoy con la familia"},
+          "6": {"label": "En reuniones de trabajo o formales"},
+          "7": {"label": "Después de hacer deporte o actividades físicas"},
+          "8": {"label": "En otra situación"},
+          "9": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "26": {
+        "id": "26",
+        "type": "checkbox",
+        "label": "P26 ¿Cuál o cuáles son las razones por las que no eliges o no elegirías cerveza 0.0 con más frecuencia?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Porque no me gusta el sabor"},
+          "2": {"label": "Porque no sabe igual que una cerveza con alcohol"},
+          "3": {"label": "Porque no la encuentro fácilmente donde consumo cerveza"},
+          "4": {"label": "Porque muchas veces no está fría"},
+          "5": {"label": "Porque me parece cara en comparación con la cerveza con alcohol"},
+          "6": {"label": "Porque prefiero sentir el efecto del alcohol"},
+          "7": {"label": "Porque siento que no me llena o no me satisface igual"},
+          "8": {"label": "Porque me da pena que piensen que no estoy tomando alcohol"},
+          "9": {"label": "Porque no hay suficiente variedad de marcas o estilos"},
+          "10": {"label": "Otra razón"},
+          "11": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "27": {
+        "id": "27",
+        "type": "radio",
+        "label": "P27 De todas esas razones, ¿cuál es la principal por la que no eliges o no elegirías cerveza 0.0 con más frecuencia?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Porque no me gusta el sabor"},
+          "2": {"label": "Porque no sabe igual que una cerveza con alcohol"},
+          "3": {"label": "Porque no la encuentro fácilmente donde consumo cerveza"},
+          "4": {"label": "Porque muchas veces no está fría"},
+          "5": {"label": "Porque me parece cara en comparación con la cerveza con alcohol"},
+          "6": {"label": "Porque prefiero sentir el efecto del alcohol"},
+          "7": {"label": "Porque siento que no me llena o no me satisface igual"},
+          "8": {"label": "Porque me da pena que piensen que no estoy tomando alcohol"},
+          "9": {"label": "Porque no hay suficiente variedad de marcas o estilos"},
+          "10": {"label": "Otra razón"},
+          "11": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "28": {
+        "id": "28",
+        "type": "radio",
+        "label": "P28 Cuando eliges o elegirías cerveza 0.0, ¿qué es lo más importante para ti al momento de pedirla?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Que sepa parecido a la cerveza con alcohol"},
+          "2": {"label": "Que tenga buen aroma y espuma como una cerveza normal"},
+          "3": {"label": "Que sea refrescante"},
+          "4": {"label": "Que combine bien con la comida"},
+          "5": {"label": "Que sea de una marca que me gusta"},
+          "6": {"label": "Que esté disponible fría"},
+          "7": {"label": "Otra razón"},
+          "8": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "29": {
+        "id": "29",
+        "type": "radio",
+        "label": "P29 ¿Cómo percibes el precio de la cerveza 0.0 en comparación con una cerveza con alcohol?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Mucho más cara"},
+          "2": {"label": "Un poco más cara"},
+          "3": {"label": "Igual"},
+          "4": {"label": "Un poco más barata"},
+          "5": {"label": "Mucho más barata"},
+          "6": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "30": {
+        "id": "30",
+        "type": "radio",
+        "label": "P30 Si hoy tuvieras la opción, ¿qué tan probable es que vuelvas a elegir o elijas por primera vez cerveza 0.0 en el próximo mes?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Muy probable"},
+          "2": {"label": "Algo probable"},
+          "3": {"label": "Puede ser"},
+          "4": {"label": "Poco probable"},
+          "5": {"label": "Nada probable"},
+          "6": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "31": {
+        "id": "31",
+        "type": "radio",
+        "label": "P31 Si un amigo o familiar te pidiera una recomendación, ¿qué tan probable es que recomiendes cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "0 Nada probable"},
+          "2": {"label": "1"},
+          "3": {"label": "2"},
+          "4": {"label": "3"},
+          "5": {"label": "4"},
+          "6": {"label": "5"},
+          "7": {"label": "6"},
+          "8": {"label": "7"},
+          "9": {"label": "8"},
+          "10": {"label": "9"},
+          "11": {"label": "10 Muy probable"},
+          "12": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "32": {
+        "id": "32",
+        "type": "checkbox",
+        "label": "P32 En los últimos 3 meses, ¿dónde viste o hubieras esperado ver cerveza 0.0 a la venta?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "En bares"},
+          "2": {"label": "En restaurantes"},
+          "3": {"label": "En tiendas de conveniencia (ej. OXXO, 7-Eleven)"},
+          "4": {"label": "En supermercados"},
+          "5": {"label": "En conciertos o eventos"},
+          "6": {"label": "En estadios o partidos deportivos"},
+          "7": {"label": "En gasolineras o tiendas de paso"},
+          "8": {"label": "En línea (apps de delivery o e-commerce)"},
+          "9": {"label": "En otros lugares"},
+          "10": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "33": {
+        "id": "33",
+        "type": "radio",
+        "label": "P33 La última vez que elegiste o elegirías cerveza 0.0 en un bar o restaurante, ¿estaba en el menú o carta?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Sí, estaba en el menú"},
+          "2": {"label": "No estaba en el menú, pero la tenían"},
+          "3": {"label": "No estaba disponible"},
+          "4": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "34": {
+        "id": "34",
+        "type": "radio",
+        "label": "P34 ¿Cómo prefieres o preferirías que esté disponible la cerveza 0.0?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "En botella"},
+          "2": {"label": "En lata"},
+          "3": {"label": "De barril (tirada)"},
+          "4": {"label": "En cualquiera de las presentaciones"},
+          "5": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "35": {
+        "id": "35",
+        "type": "radio",
+        "label": "P35 ¿Qué tan importante es para ti que la cerveza 0.0 esté fría al momento de pedirla?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Muy importante"},
+          "2": {"label": "Bastante importante"},
+          "3": {"label": "Algo importante"},
+          "4": {"label": "Poco importante"},
+          "5": {"label": "Nada importante"},
+          "6": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "36": {
+        "id": "36",
+        "type": "checkbox",
+        "label": "P36 De las siguientes marcas de cerveza 0.0, ¿cuál has tomado en los últimos 3 meses?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Heineken 0.0"},
+          "2": {"label": "Corona Cero"},
+          "3": {"label": "Modelo 0.0"},
+          "4": {"label": "Tecate 0.0"},
+          "5": {"label": "Budweiser Zero"},
+          "6": {"label": "Otra marca"},
+          "7": {"label": "Ninguna"},
+          "8": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "37": {
+        "id": "37",
+        "type": "radio",
+        "label": "P37 De esas marcas que elegiste, ¿cuál es la que más sueles tomar?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Heineken 0.0"},
+          "2": {"label": "Corona Cero"},
+          "3": {"label": "Modelo 0.0"},
+          "4": {"label": "Tecate 0.0"},
+          "5": {"label": "Budweiser Zero"},
+          "6": {"label": "Otra marca"},
+          "7": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "38": {
+        "id": "38",
+        "type": "radio",
+        "label": "P38 Si tuvieras que elegir una cerveza 0.0 para tu próxima ocasión, ¿cuál elegirías?",
+        "required": "1",
+        "choices": {
+          "1": {"label": "Heineken 0.0"},
+          "2": {"label": "Corona Cero"},
+          "3": {"label": "Modelo 0.0"},
+          "4": {"label": "Tecate 0.0"},
+          "5": {"label": "Budweiser Zero"},
+          "6": {"label": "Otra marca"},
+          "7": {"label": "Ninguna"},
+          "8": {"label": "Nunca tomaría cerveza 0.0"}
+        }
+      },
+      "39": {
+        "id": "39",
+        "type": "likert_scale",
+        "label": "P39 ¿Qué atributos asocias a cada una de estas marcas de cerveza 0.0?",
+        "required": "1",
+        "columns": [
+          "Heineken 0.0",
+          "Corona Cero",
+          "Modelo 0.0",
+          "Tecate 0.0",
+          "Budweiser Zero",
+          "Otra marca"
+        ],
+        "rows": [
+          "Buen sabor",
+          "Sabe parecido a la cerveza con alcohol",
+          "Refrescante",
+          "Marca confiable",
+          "Moderna / innovadora",
+          "Opción saludable",
+          "Buena para acompañar comidas",
+          "Buena relación precio–calidad",
+          "Fácil de encontrar",
+          "Me da buena imagen social",
+          "Otra"
+        ],
+        "single_row": "0"
+      }
+    },
+    "settings": {
+      "form_title": "Encuesta Heineken 0.0",
+      "submit_text": "Enviar",
+      "form_class": "heineken-00-survey"
+    }
+  }
+]

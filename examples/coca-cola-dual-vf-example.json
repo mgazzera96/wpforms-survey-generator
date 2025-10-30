@@ -1,0 +1,3846 @@
+[
+  {
+    "id": "14099",
+    "field_id": "68",
+    "fields": {
+      "1": {
+        "id": "1",
+        "type": "radio",
+        "label": "Q1.1 Gender",
+        "choices": {
+          "1": {
+            "label": "Male",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Female",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Non-binary / Prefer not to say",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "2": {
+        "id": "2",
+        "type": "radio",
+        "label": "Q1.2 Age",
+        "choices": {
+          "1": {
+            "label": "18–30 years old",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "31–40 years old",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "41 years or older",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "3": {
+        "id": "3",
+        "type": "radio",
+        "label": "Q1.3 Household income level",
+        "choices": {
+          "1": {
+            "label": "High income",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Upper-middle income",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Middle income",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Lower-middle income",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Low income",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "4": {
+        "id": "4",
+        "type": "radio",
+        "label": "Q1.4 Region of residence",
+        "choices": {
+          "1": {
+            "label": "Northeast",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Midwest",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "South",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "West",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Other / U.S. territory",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "5": {
+        "id": "5",
+        "type": "radio",
+        "label": "Q1.5 Living situation",
+        "choices": {
+          "1": {
+            "label": "I live alone",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "I live with my partner or spouse",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "I live with my parents",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "I live with my partner and children",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "I live with children only",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Other",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "6": {
+        "id": "6",
+        "type": "radio",
+        "label": "Q1.6 Who usually buys beverages for your household?",
+        "choices": {
+          "1": {
+            "label": "I’m mainly responsible for buying beverages",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "I share this responsibility with someone else",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Someone else usually buys beverages",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "7": {
+        "id": "7",
+        "type": "radio",
+        "label": "Q1.7 How would you describe your overall lifestyle when it comes to health and balance?",
+        "choices": {
+          "1": {
+            "label": "Very healthy — I actively take care of myself",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Fairly healthy — I try to stay balanced but allow some indulgence",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Balanced — sometimes I eat healthy, sometimes not",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Not very healthy — I don’t worry much about it",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Unhealthy — I rarely think about health when making choices",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "8": {
+        "id": "8",
+        "type": "radio",
+        "label": "Q1.8 How often do you exercise or play sports?",
+        "choices": {
+          "1": {
+            "label": "Every day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Several times a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Once a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Occasionally",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Never",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "10": {
+        "id": "10",
+        "type": "radio",
+        "label": "Q1.9 How often do you drink beverages that contain sugar (soft drinks, juices, etc.)?",
+        "choices": {
+          "1": {
+            "label": "Every day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Several times a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Once a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Less than once a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Almost never",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "11": {
+        "id": "11",
+        "type": "radio",
+        "label": "Q1.10 How often do you drink sugar-free or low-calorie beverages (Zero, Diet, or Light versions)?",
+        "choices": {
+          "1": {
+            "label": "Every day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Several times a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Once a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Less than once a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Almost never",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "12": {
+        "id": "12",
+        "type": "radio",
+        "label": "Q1.11 Which of the following best describes your attitude toward sugar?",
+        "choices": {
+          "1": {
+            "label": "I avoid sugar as much as possible",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "I try to limit it most of the time",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "I’m moderately careful but not strict",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "I don’t worry much about it",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "I never think about it when choosing what to drink",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "13": {
+        "id": "13",
+        "type": "radio",
+        "label": "Q1.12 How often do you eat or drink outside your home (restaurants, bars, cafés, etc.)?",
+        "choices": {
+          "1": {
+            "label": "Almost every day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Several times a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "About once a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "A few times a month",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Almost never",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "14": {
+        "id": "14",
+        "type": "checkbox",
+        "label": "Q2.1 Which of the following beverages have you personally consumed in the past month?",
+        "choices": {
+          "1": {
+            "label": "Coca-Cola Original Taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Coca-Cola Zero Sugar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Diet Coke",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Pepsi",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Pepsi Zero Sugar / Pepsi Black",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Other cola brands (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "I have not consumed any cola beverages in the past month",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Continue only if respondent selects both Coca-Cola Original Taste and Coca-Cola Zero Sugar.",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "15": {
+        "id": "15",
+        "type": "radio",
+        "label": "Q2.2 How often do you usually drink Coca-Cola Original Taste?",
+        "choices": {
+          "1": {
+            "label": "Every day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Several times a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "About once a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "A few times a month",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Almost never",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "16": {
+        "id": "16",
+        "type": "radio",
+        "label": "Q2.3 How often do you usually drink Coca-Cola Zero Sugar?",
+        "choices": {
+          "1": {
+            "label": "Every day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Several times a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "About once a week",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "A few times a month",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Almost never",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "17": {
+        "id": "17",
+        "type": "radio",
+        "label": "Q2.4 On the days when you drink Coca-Cola Original Taste, how many servings do you usually have?",
+        "choices": {
+          "1": {
+            "label": "One serving (one can or small bottle)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Two servings",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Three servings",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Four or more servings",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "It varies depending on the occasion",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "18": {
+        "id": "18",
+        "type": "radio",
+        "label": "Q2.5 On the days when you drink Coca-Cola Zero Sugar, how many servings do you usually have?",
+        "choices": {
+          "1": {
+            "label": "One serving (one can or small bottle)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Two servings",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Three servings",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Four or more servings",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "It varies depending on the occasion",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "19": {
+        "id": "19",
+        "type": "radio",
+        "label": "Q2.6 If you could only choose one Coca-Cola version to keep drinking, which would it be?",
+        "choices": {
+          "1": {
+            "label": "Coca-Cola Original Taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Coca-Cola Zero Sugar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "I couldn’t choose; I need both",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "20": {
+        "id": "20",
+        "type": "checkbox",
+        "label": "Q2.7 At what times of day do you usually drink Coca-Cola Original Taste?",
+        "choices": {
+          "1": {
+            "label": "Morning",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Midday / Lunch",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Afternoon",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Evening / Night",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "21": {
+        "id": "21",
+        "type": "checkbox",
+        "label": "Q2.8 And at what times of day do you usually drink Coca-Cola Zero Sugar?",
+        "choices": {
+          "1": {
+            "label": "Morning",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Midday / Lunch",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Afternoon",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Evening / Night",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "22": {
+        "id": "22",
+        "type": "radio",
+        "label": "Q2.9 On which days do you tend to drink Coca-Cola more often?",
+        "choices": {
+          "1": {
+            "label": "Weekdays",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Weekends",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Both weekdays and weekends",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "No particular pattern",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "23": {
+        "id": "23",
+        "type": "radio",
+        "label": "Q3.1 When you drink Coca-Cola Original Taste, who are you usually with?",
+        "choices": {
+          "1": {
+            "label": "Alone",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "With my partner or spouse",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "With family",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "With friends",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "With coworkers or classmates",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "24": {
+        "id": "24",
+        "type": "radio",
+        "label": "Q3.2 And when you drink Coca-Cola Zero Sugar, who are you usually with?",
+        "choices": {
+          "1": {
+            "label": "Alone",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "With my partner or spouse",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "With family",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "With friends",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "With coworkers or classmates",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "25": {
+        "id": "25",
+        "type": "likert_scale",
+        "label": "Q3.3 How often do you drink Coca-Cola Original Taste in each of the following situations?",
+        "columns": [
+          "Every time",
+          "Often",
+          "Sometimes",
+          "Rarely",
+          "Never"
+        ],
+        "rows": [
+          "During meals at home",
+          "When eating out",
+          "While watching TV or movies",
+          "When relaxing after work or school",
+          "When celebrating or socializing",
+          "When spending time with family",
+          "When with friends",
+          "When traveling or on the go",
+          "When I feel tired or need energy",
+          "When I feel happy or want to celebrate",
+          "When I feel stressed or need a break",
+          "When I want something comforting or familiar",
+          "When I want to treat or reward myself",
+          "When I’m outdoors or at an event",
+          "When it’s hot and I want to cool down",
+          "Other (please specify)"
+        ],
+        "single_row": "0",
+        "description": "",
+        "required": "1",
+        "css": ""
+      },
+      "26": {
+        "id": "26",
+        "type": "likert_scale",
+        "label": "Q3.4 How often do you drink Coca-Cola Zero Sugar in each of the following situations?",
+        "columns": [
+          "Every time",
+          "Often",
+          "Sometimes",
+          "Rarely",
+          "Never"
+        ],
+        "rows": [
+          "During meals at home",
+          "When eating out",
+          "While watching TV or movies",
+          "When relaxing after work or school",
+          "When celebrating or socializing",
+          "When spending time with family",
+          "When with friends",
+          "When traveling or on the go",
+          "When I feel tired or need energy",
+          "When I feel happy or want to celebrate",
+          "When I feel stressed or need a break",
+          "When I want something comforting or familiar",
+          "When I want to treat or reward myself",
+          "When I’m outdoors or at an event",
+          "When it’s hot and I want to cool down",
+          "Other (please specify)"
+        ],
+        "single_row": "0",
+        "description": "",
+        "required": "1",
+        "css": ""
+      },
+      "27": {
+        "id": "27",
+        "type": "checkbox",
+        "label": "Q3.5 Where do you usually buy Coca-Cola Original Taste?",
+        "choices": {
+          "1": {
+            "label": "Supermarkets or grocery stores",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Convenience stores",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Gas stations",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Restaurants or fast-food chains",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Cafés or coffee shops",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Vending machines",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "Online delivery apps or websites",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "28": {
+        "id": "28",
+        "type": "radio",
+        "label": "Q3.6 What type of package do you usually buy for Coca-Cola Original Taste?",
+        "choices": {
+          "1": {
+            "label": "Can (12 oz / 355 ml)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Small bottle (16–20 oz / 500–600 ml)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Large bottle (1L or more)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Multi-pack (6 or 12 cans/bottles)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Fountain drink (restaurant or fast-food)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "29": {
+        "id": "29",
+        "type": "checkbox",
+        "label": "Q3.7 Where do you usually buy Coca-Cola Zero Sugar?",
+        "choices": {
+          "1": {
+            "label": "Supermarkets or grocery stores",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Convenience stores",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Gas stations",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Restaurants or fast-food chains",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Cafés or coffee shops",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Vending machines",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "Online delivery apps or websites",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "30": {
+        "id": "30",
+        "type": "radio",
+        "label": "Q3.8 What type of package do you usually buy for Coca-Cola Zero Sugar?",
+        "choices": {
+          "1": {
+            "label": "Can (12 oz / 355 ml)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Small bottle (16–20 oz / 500–600 ml)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Large bottle (1L or more)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Multi-pack (6 or 12 cans/bottles)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Fountain drink (restaurant or fast-food)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "31": {
+        "id": "31",
+        "type": "checkbox",
+        "label": "Q4.1 When you drink Coca-Cola Original Taste, how does it usually make you feel?",
+        "choices": {
+          "1": {
+            "label": "Happy or uplifted",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Relaxed and comfortable",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Energized or refreshed",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Rewarded or indulged",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Excited or spontaneous",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Connected to others or nostalgic",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "Fun or playful",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Warm and familiar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Confident or motivated",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "Satisfied or complete",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "Comforted or reassured",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "12": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "32": {
+        "id": "32",
+        "type": "checkbox",
+        "label": "Q4.2 When you drink Coca-Cola Zero Sugar, how does it usually make you feel?",
+        "choices": {
+          "1": {
+            "label": "Happy or uplifted",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Relaxed and comfortable",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Energized or refreshed",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Balanced or in control",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Proud of making a better choice",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Focused or clear-headed",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "Confident or motivated",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Light and guilt-free",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Modern or up to date",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "Satisfied or complete",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "Comforted or reassured",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "12": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "33": {
+        "id": "33",
+        "type": "likert_scale",
+        "label": "Q4.3 With which version of Coca-Cola do you associate each of the following emotions the most?",
+        "columns": [
+          "Coca-Cola Original Taste",
+          "Coca-Cola Zero Sugar",
+          "Both equally",
+          "Neither"
+        ],
+        "rows": [
+          "Happiness",
+          "Excitement",
+          "Comfort",
+          "Indulgence",
+          "Balance",
+          "Control",
+          "Togetherness",
+          "Nostalgia",
+          "Pride",
+          "Confidence"
+        ],
+        "single_row": "0",
+        "description": "",
+        "required": "1",
+        "css": ""
+      },
+      "34": {
+        "id": "34",
+        "type": "radio",
+        "label": "Q4.4 What best describes the role Coca-Cola Original Taste plays for you?",
+        "choices": {
+          "1": {
+            "label": "A reward I give myself",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "A moment of enjoyment during my day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "A refreshing drink that keeps me going",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "A way to connect with others",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "A way to feel good or lift my mood",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Just a habit, not something emotional",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "35": {
+        "id": "35",
+        "type": "radio",
+        "label": "Q4.5 What best describes the role Coca-Cola Zero Sugar plays for you?",
+        "choices": {
+          "1": {
+            "label": "A smarter or more responsible choice",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "A way to enjoy Coca-Cola without guilt",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "A refreshing drink that keeps me going",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "A way to stay balanced and in control",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "A way to feel good or lift my mood",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Just a habit, not something emotional",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "36": {
+        "id": "36",
+        "type": "likert_scale",
+        "label": "Q4.6 How much do you agree with the following statements about each version?",
+        "columns": [
+          "Strongly agree",
+          "Agree",
+          "Neutral",
+          "Disagree",
+          "Strongly disagree"
+        ],
+        "rows": [
+          "It tastes great",
+          "It helps me express who I am",
+          "It's something I choose consciously, not by habit",
+          "It's a drink that fits every occasion",
+          "It's part of who I am",
+          "It's a drink that always improves my mood"
+        ],
+        "single_row": "0",
+        "description": "",
+        "required": "1",
+        "css": ""
+      },
+      "37": {
+        "id": "37",
+        "type": "checkbox",
+        "label": "Q5.1 When you think of people who usually drink Coca-Cola Original Taste, which of the following words best describe them?",
+        "choices": {
+          "1": {
+            "label": "Fun and spontaneous",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Easy-going and sociable",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Traditional and family-oriented",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Optimistic and positive",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Passionate and emotional",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Authentic and genuine",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "Classic and timeless",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Energetic and outgoing",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Simple and down-to-earth",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "Creative and expressive",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "Confident and bold",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "12": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "38": {
+        "id": "38",
+        "type": "checkbox",
+        "label": "Q5.2 When you think of people who usually drink Coca-Cola Zero Sugar, which of the following words best describe them?",
+        "choices": {
+          "1": {
+            "label": "Smart and self-aware",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Modern and up to date",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Confident and independent",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Balanced and in control",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Health-conscious but realistic",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Energetic and focused",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "Ambitious and driven",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Trend-savvy and open-minded",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Stylish and urban",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "Pragmatic and goal-oriented",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "Positive and optimistic",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "12": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "39": {
+        "id": "39",
+        "type": "radio",
+        "label": "Q5.3 Which version of Coca-Cola feels most aligned with who you are today — your personality and your lifestyle?",
+        "choices": {
+          "1": {
+            "label": "Definitely Coca-Cola Original Taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Probably Coca-Cola Original Taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Both equally",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Probably Coca-Cola Zero Sugar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Definitely Coca-Cola Zero Sugar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "40": {
+        "id": "40",
+        "type": "likert_scale",
+        "label": "Q5.4 Which version of Coca-Cola do you associate most with each of the following ideas or attributes?",
+        "columns": [
+          "Coca-Cola Original Taste",
+          "Coca-Cola Zero Sugar",
+          "Both equally",
+          "Neither"
+        ],
+        "rows": [
+          "Connects me to shared memories",
+          "Feels classic and timeless",
+          "Feels modern and relevant today",
+          "Represents balance and smart choices",
+          "Connects me with people like me",
+          "Reflects who I've always been",
+          "Reflects who I am becoming",
+          "Shows that I care about my health",
+          "Feels more about emotion than control",
+          "Feels more about control than emotion"
+        ],
+        "single_row": "0",
+        "description": "",
+        "required": "1",
+        "css": ""
+      },
+      "41": {
+        "id": "41",
+        "type": "radio",
+        "label": "Q5.5 If Coca-Cola Original Taste were a person, how would you describe them?",
+        "choices": {},
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "42": {
+        "id": "42",
+        "type": "radio",
+        "label": "Q5.6 If Coca-Cola Zero Sugar were a person, how would you describe them?",
+        "choices": {},
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "43": {
+        "id": "43",
+        "type": "checkbox",
+        "label": "Q6.1 When do you usually choose to drink Coca-Cola Original Taste?",
+        "choices": {
+          "1": {
+            "label": "During meals",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "When relaxing or watching TV",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "When celebrating or socializing",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "When I want to feel good or lift my mood",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "When I crave the Coca-Cola taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "When I want something tasty or indulgent",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "When I need an energy lift",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "When I want something familiar and comforting",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "During the weekend or evenings",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "When I’m outdoors or at an event",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "44": {
+        "id": "44",
+        "type": "checkbox",
+        "label": "Q6.2 When do you usually choose to drink Coca-Cola Zero Sugar?",
+        "choices": {
+          "1": {
+            "label": "During meals",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "When relaxing or watching TV",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "When celebrating or socializing",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "When I want to feel good or lift my mood",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "When I crave the Coca-Cola taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "When I want something tasty or indulgent",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "When I need an energy lift",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "When I want something familiar and comforting",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "During the day or while working/studying",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "When I’m outdoors or at an event",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "45": {
+        "id": "45",
+        "type": "radio",
+        "label": "Q6.3 Which of the following best describes how you use both versions of Coca-Cola?",
+        "choices": {
+          "1": {
+            "label": "I drink Coca-Cola Original Taste for enjoyment, and Zero Sugar for everyday moments",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "I drink Coca-Cola Original Taste on special or social occasions, and Zero Sugar the rest of the time",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "I drink them interchangeably depending on the situation",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "I mainly drink one and have the other occasionally for variety",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "I drink both equally — they play similar roles for me",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "46": {
+        "id": "46",
+        "type": "radio",
+        "label": "Q6.4 Overall, how do you balance both versions in your life?",
+        "choices": {
+          "1": {
+            "label": "Mostly Coca-Cola Original Taste, sometimes Zero Sugar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Mostly Coca-Cola Zero Sugar, sometimes Original Taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "I drink them both equally",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "I switch depending on time of day or activity",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "It varies a lot — I don’t have a clear pattern",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "47": {
+        "id": "47",
+        "type": "likert_scale",
+        "label": "Q7.1 Compared with a year ago, how has your consumption of each version changed?",
+        "columns": [
+          "Drinking more",
+          "About the same",
+          "Drinking less"
+        ],
+        "rows": [
+          "Coca-Cola Original Taste",
+          "Coca-Cola Zero Sugar"
+        ],
+        "single_row": "0",
+        "description": "",
+        "required": "1",
+        "css": ""
+      },
+      "48": {
+        "id": "48",
+        "type": "likert_scale",
+        "label": "Q7.2 Looking ahead to the next 12 months, how do you expect your consumption of each version to change?",
+        "columns": [
+          "Drink more",
+          "Stay the same",
+          "Drink less"
+        ],
+        "rows": [
+          "Coca-Cola Original Taste",
+          "Coca-Cola Zero Sugar"
+        ],
+        "single_row": "0",
+        "description": "",
+        "required": "1",
+        "css": ""
+      },
+      "49": {
+        "id": "49",
+        "type": "checkbox",
+        "label": "Q7.3 Why do you think your consumption might change in the future?",
+        "choices": {
+          "1": {
+            "label": "My lifestyle or health priorities are changing",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "I’m trying to reduce sugar or calories",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "My taste preferences are evolving",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "I feel Coca-Cola Zero Sugar fits better with my daily life",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "I enjoy the emotional or nostalgic side of Coca-Cola Original Taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "I expect new or limited-edition flavors to appear",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "People around me influence what I drink",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "I want to feel more balanced and in control",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "No particular reason — it just depends on the moment",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "✅ Versión final — CHAPTER 8",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "50": {
+        "id": "50",
+        "type": "radio",
+        "label": "Q8.1 How important is Coca-Cola Original Taste in your life?",
+        "choices": {
+          "1": {
+            "label": "Very important — it’s part of who I am",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Fairly important — I really enjoy it, it fits many moments",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Somewhat important — I like it, but it’s not essential",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Not very important — I drink it occasionally",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Not important at all — I could easily live without it",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "51": {
+        "id": "51",
+        "type": "radio",
+        "label": "Q8.2 How important is Coca-Cola Zero Sugar in your life?",
+        "choices": {
+          "1": {
+            "label": "Very important — it’s part of who I am",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Fairly important — I really enjoy it, it fits many moments",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Somewhat important — I like it, but it’s not essential",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Not very important — I drink it occasionally",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Not important at all — I could easily live without it",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "52": {
+        "id": "52",
+        "type": "checkbox",
+        "label": "Q8.3 In which types of moments do you see Coca-Cola Original Taste as irreplaceable?",
+        "choices": {
+          "1": {
+            "label": "During meals",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "When celebrating or socializing",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "When relaxing or watching TV",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "When I want a reward or treat",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "When I feel nostalgic or emotional",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "When I want the “real” Coca-Cola experience",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "When I’m with family or friends",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "When I want to lift my mood",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "When I’m outdoors or at an event",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "None / it’s never irreplaceable",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "53": {
+        "id": "53",
+        "type": "checkbox",
+        "label": "Q8.4 In which types of moments do you see Coca-Cola Zero Sugar as irreplaceable?",
+        "choices": {
+          "1": {
+            "label": "During meals",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "When celebrating or socializing",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "When relaxing or watching TV",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "When I want a reward or treat",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "When I feel nostalgic or emotional",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "When I want the “real” Coca-Cola experience",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "When I’m with family or friends",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "When I want to lift my mood",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "When I’m outdoors or at an event",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "None / it’s never irreplaceable",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "54": {
+        "id": "54",
+        "type": "radio",
+        "label": "Q8.5 If Coca-Cola Original Taste were no longer available, what would you most likely do?",
+        "choices": {
+          "1": {
+            "label": "I’d drink Coca-Cola Zero Sugar instead",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "I’d drink another Coca-Cola product (like Diet Coke or flavored versions)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "I’d drink less Coca-Cola overall",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "I’d switch to another brand",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "I’m not sure — I’d see how I feel",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "55": {
+        "id": "55",
+        "type": "radio",
+        "label": "Q8.6 If Coca-Cola Zero Sugar were no longer available, what would you most likely do?",
+        "choices": {
+          "1": {
+            "label": "I’d drink Coca-Cola Original Taste instead",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "I’d drink another Coca-Cola product (like Diet Coke or flavored versions)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "I’d drink less Coca-Cola overall",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "I’d switch to another brand",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "I’m not sure — I’d see how I feel",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "56": {
+        "id": "56",
+        "type": "checkbox",
+        "label": "Q8.7 Why do you keep drinking Coca-Cola Original Taste even though you also drink Zero Sugar?",
+        "choices": {
+          "1": {
+            "label": "It gives me the authentic Coca-Cola flavor",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "It feels more emotional or nostalgic",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "It tastes better or more satisfying",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "It fits special or social occasions",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "It feels more indulgent or rewarding",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "It’s the version I’ve always known",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "It’s available everywhere",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "It makes moments feel special",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "57": {
+        "id": "57",
+        "type": "checkbox",
+        "label": "Q8.8 Why do you keep drinking Coca-Cola Zero Sugar even though you also drink Original Taste?",
+        "choices": {
+          "1": {
+            "label": "It helps me balance enjoyment and health",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "It fits my everyday routine",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "It refreshes me without guilt",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "It feels modern and smart",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "It lets me enjoy Coca-Cola more often",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "It makes me feel in control",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "It’s lighter but still has great taste",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "It’s better for my lifestyle",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "58": {
+        "id": "58",
+        "type": "radio",
+        "label": "Q9.1 How guilty, if at all, do you feel when drinking Coca-Cola Original Taste?",
+        "choices": {
+          "1": {
+            "label": "Very guilty",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Fairly guilty",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Somewhat guilty",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Slightly guilty",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Not guilty at all",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "59": {
+        "id": "59",
+        "type": "radio",
+        "label": "Q9.2 How guilty, if at all, do you feel when drinking Coca-Cola Zero Sugar?",
+        "choices": {
+          "1": {
+            "label": "Very guilty",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Fairly guilty",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Somewhat guilty",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Slightly guilty",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Not guilty at all",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "60": {
+        "id": "60",
+        "type": "checkbox",
+        "label": "Q9.3 When you drink Coca-Cola Original Taste, how do you usually justify it to yourself?",
+        "choices": {
+          "1": {
+            "label": "“I deserve it — it’s a small reward for me.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "“It’s part of enjoying life.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "“I balance it by drinking Zero Sugar later.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "“I only have it on special occasions.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "“I don’t need to justify it — I just enjoy it.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "61": {
+        "id": "61",
+        "type": "checkbox",
+        "label": "Q9.4 When you drink Coca-Cola Zero Sugar, how do you usually justify it to yourself?",
+        "choices": {
+          "1": {
+            "label": "“It makes me feel balanced.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "“It’s a healthier choice for daily moments.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "“It lets me enjoy Coca-Cola without guilt.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "“It’s part of taking care of myself.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "“It feels like a smart or modern choice.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "“I don’t really think about it.”",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "62": {
+        "id": "62",
+        "type": "radio",
+        "label": "Q9.5 When you think about the word “balance,” what does it mean for you when drinking Coca-Cola?",
+        "choices": {
+          "1": {
+            "label": "Finding a middle point between enjoyment and health",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Controlling my consumption without giving up pleasure",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Alternating between Original and Zero depending on the moment",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Feeling mentally okay about my choices",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Knowing I can enjoy both without excess",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Living a lifestyle that includes both discipline and fun",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "I don’t really think about balance when I drink Coca-Cola",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "63": {
+        "id": "63",
+        "type": "radio",
+        "label": "Q9.6 And when you think about the word “reward,” what does it mean to you when drinking Coca-Cola?",
+        "choices": {
+          "1": {
+            "label": "A moment I treat myself to feel good",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "A break after a busy day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Enjoying something I really like without thinking too much",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Sharing a nice moment with others",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Doing something small that makes me happy",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Taking time for myself — a pause in the day",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "Feeling that I’ve earned it",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Celebrating an achievement or a good moment",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Reconnecting with memories or traditions",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "Expressing a bit of indulgence without guilt",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "I don’t see Coca-Cola as a reward",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "64": {
+        "id": "64",
+        "type": "checkbox",
+        "label": "Q9.7 When you think of “the true Coca-Cola,” what makes it feel authentic to you?",
+        "choices": {
+          "1": {
+            "label": "Its taste and sweetness",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "The bubbles and refreshing sensation",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Its iconic look and brand identity",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "How it makes me feel emotionally",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "The memories or moments associated with it",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Because it’s the version I grew up with",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "The feeling it creates, not just the flavor",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Its consistency over time — it never changes",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Both versions feel equally authentic to me",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "Other (please specify)",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "65": {
+        "id": "65",
+        "type": "radio",
+        "label": "Q9.8 How similar does Coca-Cola Zero Sugar taste to what you consider the ‘real’ Coca-Cola taste?",
+        "choices": {
+          "1": {
+            "label": "Identical",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Very similar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Somewhat similar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Not very similar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Completely different",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Not sure",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "66": {
+        "id": "66",
+        "type": "radio",
+        "label": "Q9.9 Do people around you influence which version of Coca-Cola you choose to drink?",
+        "choices": {
+          "1": {
+            "label": "Always — my choice often depends on others",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Often — their preferences or comments influence me",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Sometimes — it depends on who I’m with",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Rarely — I usually decide on my own",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Never — other people don’t influence my choice",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      },
+      "67": {
+        "id": "67",
+        "type": "likert_scale",
+        "label": "Q9.10 Looking ahead, how do you see your connection with each version of Coca-Cola in the future?",
+        "columns": [
+          "Stronger connection",
+          "Same connection",
+          "Weaker connection"
+        ],
+        "rows": [
+          "Coca-Cola Original Taste",
+          "Coca-Cola Zero Sugar"
+        ],
+        "single_row": "0",
+        "description": "",
+        "required": "1",
+        "css": ""
+      },
+      "68": {
+        "id": "68",
+        "type": "radio",
+        "label": "Q9.11 Which of the following best describes how you see yourself as a Coca-Cola drinker in the future?",
+        "choices": {
+          "1": {
+            "label": "Someone who keeps drinking both versions equally",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Someone who will drink more Zero Sugar and less Original",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Someone who will drink more Original and less Zero Sugar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "Someone who will focus on other Coca-Cola options or new versions",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "I don’t know / Not sure",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "choices_images_style": "modern",
+        "choices_icons_color": "#0399ed",
+        "choices_icons_size": "large",
+        "choices_icons_style": "default",
+        "description": "",
+        "required": "1",
+        "input_columns": "",
+        "dynamic_choices": "",
+        "css": ""
+      }
+    },
+    "settings": {
+      "themes": {
+        "wpformsTheme": "default",
+        "isCustomTheme": "",
+        "themeName": "",
+        "fieldSize": "medium",
+        "fieldBorderStyle": "solid",
+        "fieldBorderSize": "1",
+        "fieldBorderRadius": "3",
+        "fieldBackgroundColor": "#ffffff",
+        "fieldBorderColor": "rgba(0, 0, 0, 0.25)",
+        "fieldTextColor": "rgba(0, 0, 0, 0.7)",
+        "labelSize": "medium",
+        "labelColor": "rgba(0, 0, 0, 0.85)",
+        "labelSublabelColor": "rgba(0, 0, 0, 0.55)",
+        "labelErrorColor": "#d63637",
+        "buttonSize": "medium",
+        "buttonBorderStyle": "none",
+        "buttonBorderSize": "1",
+        "buttonBorderRadius": "3",
+        "buttonBackgroundColor": "#066aab",
+        "buttonBorderColor": "#066aab",
+        "buttonTextColor": "#ffffff",
+        "containerPadding": "0",
+        "containerBorderStyle": "none",
+        "containerBorderWidth": "1",
+        "containerBorderRadius": "3",
+        "containerBorderColor": "#000000",
+        "containerShadowSize": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "backgroundSize": "cover",
+        "backgroundUrl": "url()",
+        "fieldMenuColor": "#ffffff",
+        "pageBreakColor": "#066aab",
+        "customCss": "",
+        "copyPasteJsonValue": "{\"themeName\":\"\",\"isCustomTheme\":\"\",\"wpformsTheme\":\"default\",\"customCss\":\"\",\"containerPadding\":\"0\",\"containerBorderStyle\":\"none\",\"containerBorderWidth\":\"1\",\"containerBorderRadius\":\"3\",\"containerShadowSize\":\"none\",\"containerBorderColor\":\"#000000\",\"fieldSize\":\"medium\",\"fieldBorderStyle\":\"solid\",\"fieldBorderRadius\":\"3\",\"fieldBorderSize\":\"1\",\"fieldBackgroundColor\":\"#ffffff\",\"fieldBorderColor\":\"rgba(0, 0, 0, 0.25)\",\"fieldTextColor\":\"rgba(0, 0, 0, 0.7)\",\"fieldMenuColor\":\"#ffffff\",\"pageBreakColor\":\"#066aab\",\"labelSize\":\"medium\",\"labelColor\":\"rgba(0, 0, 0, 0.85)\",\"labelSublabelColor\":\"rgba(0, 0, 0, 0.55)\",\"labelErrorColor\":\"#d63637\",\"buttonSize\":\"medium\",\"buttonBorderStyle\":\"none\",\"buttonBorderSize\":\"1\",\"buttonBorderRadius\":\"3\",\"buttonBackgroundColor\":\"#066aab\",\"buttonBorderColor\":\"#066aab\",\"buttonTextColor\":\"#ffffff\",\"backgroundColor\":\"rgba(0, 0, 0, 0)\",\"backgroundPosition\":\"center center\",\"backgroundUrl\":\"url()\",\"backgroundRepeat\":\"no-repeat\",\"backgroundSize\":\"cover\",\"backgroundSizeMode\":\"cover\",\"backgroundWidth\":\"100\",\"backgroundHeight\":\"100\",\"backgroundImage\":\"none\"}"
+      },
+      "form_title": "Coca-Cola Dual VF Survey",
+      "form_desc": "",
+      "submit_text": "Submit Survey",
+      "submit_text_processing": "",
+      "form_class": "coca-cola-dual-vf-survey",
+      "submit_class": "",
+      "notifications": {
+        "1": {
+          "enable": "1",
+          "notification_name": "Default Notification",
+          "email": "{admin_email}",
+          "subject": "New Entry: Coca-Cola Dual VF Survey",
+          "sender_name": "OpinionLabz",
+          "sender_address": "{admin_email}",
+          "replyto": "",
+          "message": "{all_fields}",
+          "template": "",
+          "file_upload_attachment_fields": [],
+          "entry_csv_attachment_entry_information": [],
+          "entry_csv_attachment_file_name": "entry-details"
+        }
+      },
+      "confirmations": {
+        "1": {
+          "name": "Default Confirmation",
+          "type": "message",
+          "message": "<p>Thanks for contacting us! We will be in touch with you shortly.</p>",
+          "message_scroll": "1",
+          "page": "previous_page",
+          "page_url_parameters": "",
+          "redirect": "",
+          "message_entry_preview_style": "basic"
+        }
+      },
+      "anti_spam": {
+        "time_limit": {
+          "duration": "2"
+        },
+        "filtering_store_spam": "1",
+        "country_filter": {
+          "action": "allow",
+          "country_codes": [],
+          "message": "Desculpe, este formulário não aceita envios do seu país."
+        },
+        "keyword_filter": {
+          "message": "Desculpe, sua mensagem não pode ser enviada porque contém palavras proibidas."
+        }
+      },
+      "form_locker_verification_type": "password",
+      "form_locker_password": "",
+      "form_locker_age": "18",
+      "form_locker_age_criteria": ">=",
+      "form_locker_password_message": "",
+      "form_locker_age_message": "",
+      "form_locker_email_message": "",
+      "form_locker_schedule_start_date": "",
+      "form_locker_schedule_start_time": "",
+      "form_locker_schedule_end_date": "",
+      "form_locker_schedule_end_time": "",
+      "form_locker_schedule_message": "",
+      "form_locker_user_message": "",
+      "form_locker_entry_limit": "",
+      "form_locker_entry_limit_message": "",
+      "form_locker_user_entry_email_field": "",
+      "form_locker_user_entry_limit": "",
+      "form_locker_user_entry_email_duration": "day_start",
+      "form_locker_user_entry_message_limited": "",
+      "form_tags": [],
+      "store_spam_entries": "0"
+    },
+    "search_terms": "",
+    "providers": {
+      "google-sheets": [],
+      "constant-contact-v3": []
+    }
+  }
+]
